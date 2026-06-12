@@ -42,6 +42,7 @@ Business Insights
 # ⚙️ Dashboard Development Process
 
 ### Step 1 — Collect Loan Data
+<img width="2880" height="1704" alt="Google Sheet" src="https://github.com/user-attachments/assets/19097910-a6f2-44de-a171-0e11c9a36802" />
 
 The dataset contains information related to:
 
@@ -157,7 +158,8 @@ This helps understand applicant profiles.
 
 ## Power BI Dashboard
 
-<img src="./screenshots/dashboard.png" width="1000"/>
+<img width="584" height="329" alt="Screenshot 2026-06-10 194214" src="https://github.com/user-attachments/assets/cf57b91a-9dfe-4886-a519-e048a21ea8e5" />
+
 
 The dashboard provides a complete overview of loan performance, approval trends, and risk distribution.
 
@@ -165,7 +167,6 @@ The dashboard provides a complete overview of loan performance, approval trends,
 
 ## KPI Overview
 
-<img src="./screenshots/kpi-overview.png" width="1000"/>
 
 Displays key metrics used by decision-makers.
 
@@ -173,7 +174,6 @@ Displays key metrics used by decision-makers.
 
 ## Risk Analysis Dashboard
 
-<img src="./screenshots/risk-analysis.png" width="1000"/>
 
 Visual representation of risk categories.
 
